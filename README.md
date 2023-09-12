@@ -1,4 +1,4 @@
-# Grocery-Store-Website-Project
-Group Project: Grocery Store Website (HTML, CSS (including Bootstrap), JavaScript and PHP)
+# Grocery Store Website Project
+Technologies used: HTML, CSS (including Bootstrap), JavaScript and PHP
 
-Website Link : https://users.encs.concordia.ca/~er_tan/Grocery/HomePage.php
+Website Link: https://users.encs.concordia.ca/~er_tan/Grocery/HomePage.php
